@@ -7,3 +7,5 @@ echo "Enter third number:"
 read c
 Compute=$(( a+b*c ))
 echo $Compute
+Compute=$(( a*b+c ))
+echo $Compute
