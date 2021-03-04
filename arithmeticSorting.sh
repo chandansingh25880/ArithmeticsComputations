@@ -9,3 +9,5 @@ Compute=$(( a+b*c ))
 echo $Compute
 Compute=$(( a*b+c ))
 echo $Compute
+Compute=$(( c+a/b ))
+echo $Compute
